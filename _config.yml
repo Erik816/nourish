@@ -1,2 +1,7 @@
 baseurl: /nourish
 url: http://erik816.github.io/
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://erik816.github.io/nourish'
+  media: 'images'
+  
